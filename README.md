@@ -20,11 +20,11 @@
 
 ### Languages:
 
-[<img align="left" alt="Java" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/java.svg" />][java]
-[<img align="left" alt="JavaScript" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/javascript.svg" />][javascript]
-[<img align="left" alt="Python" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/python.svg" />][python]
-[<img align="left" alt="HTML" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/html.svg" />][html]
-[<img align="left" alt="CSS" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/CSS.svg" />][css]
+[<img align="left" alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />][java]
+[<img align="left" alt="JavaScript" width="22px" src="cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />][javascript]
+[<img align="left" alt="Python" width="22px" src="cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />][python]
+[<img align="left" alt="HTML" width="22px" src="cdn.jsdelivr.net/npm/simple-icons@v3/icons/html.svg" />][html]
+[<img align="left" alt="CSS" width="22px" src="cdn.jsdelivr.net/npm/simple-icons@v3/icons/css.svg" />][css]
 
 ### My Socials:
 
