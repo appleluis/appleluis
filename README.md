@@ -14,12 +14,6 @@
 
 
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-luis.erdmann07.vercel.app/api/spotify-playing" alt="appleluis Spotify Playing" width="350" />](https://open.spotify.com/user/luis.erdmann07?si=RfCeQaktQLiaCnpWcrXoVQ)
-
-
-
 ### GitHub Stats:
 
 <img align="left" alt="Appleluis' Github Stats" src="https://github-readme-stats.appleluis.vercel.app/api?username=appleluis&show_icons=true&hide_border=true" />
@@ -79,4 +73,3 @@
 [reddit]: https://www.reddit.com/user/appleluis
 [pinterest]: https://www.pinterest.de/appleluis27/
 [steam]: https://steamcommunity.com/id/appleluis/
-
