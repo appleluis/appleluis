@@ -28,14 +28,14 @@
 
 ### Languages:
 
-Java:[<img align="left" alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/java.svg" />][java]
-JavaScript: [<img align="left" alt="JavaScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/javascript.svg" />][javascript]
-Python: [<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/python.svg" />][python]
-HTML: [<img align="left" alt="HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/html5.svg" />][html]
-CSS: [<img align="left" alt="CSS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/css3.svg" />][css]
-C: [<img align="left" alt="C" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/c.svg" />][c]
-C#: [<img align="left" alt="C#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/csharp.svg" />][c#]
-C++: [<img align="left" alt="C++" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/cplusplus.svg" />][c++]
+[<img align="left" alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/java.svg" />][java]
+[<img align="left" alt="JavaScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/javascript.svg" />][javascript]
+[<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/python.svg" />][python]
+[<img align="left" alt="HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/html5.svg" />][html]
+[<img align="left" alt="CSS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/css3.svg" />][css]
+[<img align="left" alt="C" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/c.svg" />][c]
+[<img align="left" alt="C#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/csharp.svg" />][c#]
+[<img align="left" alt="C++" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/cplusplus.svg" />][c++]
 
 
 
