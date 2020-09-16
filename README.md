@@ -5,6 +5,14 @@
 - 🖥: I am the Founder of MidnightGames, MidnightCord, MidnightClient, and BotNight!
 - 🌱: I am always looking for new Projects to work on! If you have any Ideas, just DM me on Discord!
 
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
+### GitHub Stats:
+
+<img align="left" alt="Appleluis' Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=appleluis&show_icons=true&hide_border=true" />
+
 ### My Socials:
 
 [<img align="left" alt="Appleluis.crd.co" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
