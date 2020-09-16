@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-luis.erdmann07.vercel.app/api/spotify-playing" alt="appleluis Spotify Playing" width="350" />](https://open.spotify.com/user/luis.erdmann07)
+[<img src="https://now-playing-luis.erdmann07.vercel.app/api/spotify-playing" alt="appleluis Spotify Playing" width="350" />](https://open.spotify.com/user/luis.erdmann07?si=RfCeQaktQLiaCnpWcrXoVQ)
 
 ### GitHub Stats:
 
