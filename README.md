@@ -3,6 +3,8 @@
 ![Twitch Status](https://img.shields.io/twitch/status/appleluis27?color=55FFFF&logo=Twitch&style=for-the-badge)
 ![Twitter Follow](https://img.shields.io/twitter/follow/appleluis07?color=00FFFF&label=Follow&logo=Twitter&style=for-the-badge)
 
+
+
 ### I am a Developer, Musician, Designer, Gamer, and Content-Creator. 
 - 💻: I code Java, JavaScript, Python, HMTL, and CSS, and I know most basics of C, C#, and C++!
 - 🖥: I am the Founder of MidnightGames, MidnightCord, MidnightClient, and BotNight!
@@ -10,13 +12,19 @@
 - 👯: I’m looking to collaborate with other content creators and Devs!
 - 🥅: 2020 Goals: Contribute more to Open Source projects!
 
+
+
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-luis.erdmann07.vercel.app/api/spotify-playing" alt="appleluis Spotify Playing" width="350" />](https://open.spotify.com/user/luis.erdmann07?si=RfCeQaktQLiaCnpWcrXoVQ)
 
+
+
 ### GitHub Stats:
 
 <img align="left" alt="Appleluis' Github Stats" src="https://github-readme-stats.appleluis.vercel.app/api?username=appleluis&show_icons=true&hide_border=true" />
+
+
 
 ### Languages:
 
@@ -28,6 +36,8 @@
 [<img align="left" alt="C" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/c.svg" />][c]
 [<img align="left" alt="C#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/csharp.svg" />][c#]
 [<img align="left" alt="C++" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/cplusplus.svg" />][c++]
+
+
 
 ### My Socials:
 
@@ -42,6 +52,8 @@
 [<img align="left" alt="Appleluis | Pinterest" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pinterest.svg" />][pinterest]
 [<img align="left" alt="Appleluis | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
 
+
+
 <br />
 
 [java]: https://en.wikipedia.org/wiki/Java
@@ -52,6 +64,8 @@
 [c]: https://en.wikipedia.org/wiki/C_(programming_language)
 [c#]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
 [c++]: https://en.wikipedia.org/wiki/C++
+
+
 
 <br />
 
@@ -65,3 +79,4 @@
 [reddit]: https://www.reddit.com/user/appleluis
 [pinterest]: https://www.pinterest.de/appleluis27/
 [steam]: https://steamcommunity.com/id/appleluis/
+
