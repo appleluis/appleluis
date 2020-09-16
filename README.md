@@ -1,17 +1,30 @@
 ### Hello there, im Luis or Appleluis online!
 
+![Twitch Status](https://img.shields.io/twitch/status/appleluis27?color=55FFFF&logo=Twitch&style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/appleluis07?color=00FFFF&label=Follow&logo=Twitter&style=for-the-badge)
+
 ### I am a Developer, Musician, Designer, Gamer, and Content-Creator. 
 - 💻: I code Java, JavaScript, Python, HMTL, and CSS, and I know most basics of C, C#, and C++!
 - 🖥: I am the Founder of MidnightGames, MidnightCord, MidnightClient, and BotNight!
 - 🌱: I am always looking for new Projects to work on! If you have any Ideas, just DM me on Discord!
+- 👯: I’m looking to collaborate with other content creators and Devs!
+- 🥅: 2020 Goals: Contribute more to Open Source projects!
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-luis.erdmann07.vercel.app/api/spotify-playing" alt="appleluis Spotify Playing" width="350" />](https://open.spotify.com/user/)
+[<img src="https://now-playing-luis.erdmann07.vercel.app/api/spotify-playing" alt="appleluis Spotify Playing" width="350" />](https://open.spotify.com/user/I1U20Y-lTD-RGDMsPRCFVQ)
 
 ### GitHub Stats:
 
 <img align="left" alt="Appleluis' Github Stats" src="https://github-readme-stats.appleluis.vercel.app/api?username=appleluis&show_icons=true&hide_border=true" />
+
+### Languages:
+
+[<img align="left" alt="Java" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/java.svg" />][java]
+[<img align="left" alt="JavaScript" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/javascript.svg" />][javascript]
+[<img align="left" alt="Python" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/python.svg" />][python]
+[<img align="left" alt="HTML" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/html.svg" />][html]
+[<img align="left" alt="CSS" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/CSS.svg" />][css]
 
 ### My Socials:
 
@@ -27,6 +40,13 @@
 [<img align="left" alt="Appleluis | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
 
 <br />
+
+[java]: https://en.wikipedia.org/wiki/Java
+[javascript]: https://en.wikipedia.org/wiki/JavaScript
+[python]: https://en.wikipedia.org/wiki/Python_(programming_language)
+[html]: https://en.wikipedia.org/wiki/HTML
+[css]: https://en.wikipedia.org/wiki/CSS
+
 <br />
 
 [website]: https://appleluis.crd.co/
