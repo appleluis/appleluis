@@ -29,5 +29,5 @@
 [snapchat]: https://www.snapchat.com/add/appleluis27/
 [tiktok]: https://www.tiktok.com/@appleluis27/
 [reddit]: https://www.reddit.com/user/appleluis
-[pinterest]: https://www.reddit.com/user/appleluis
-[steam]: https://steamcommunity.com/id/appleluis/# appleluis
+[pinterest]: https://www.pinterest.de/appleluis27/
+[steam]: https://steamcommunity.com/id/appleluis/
