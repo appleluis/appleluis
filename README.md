@@ -20,11 +20,14 @@
 
 ### Languages:
 
-[<img align="left" alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />][java]
-[<img align="left" alt="JavaScript" width="22px" src="cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />][javascript]
-[<img align="left" alt="Python" width="22px" src="cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />][python]
-[<img align="left" alt="HTML" width="22px" src="cdn.jsdelivr.net/npm/simple-icons@v3/icons/html.svg" />][html]
-[<img align="left" alt="CSS" width="22px" src="cdn.jsdelivr.net/npm/simple-icons@v3/icons/css.svg" />][css]
+[<img align="left" alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/java.svg" />][java]
+[<img align="left" alt="JavaScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/javascript.svg" />][javascript]
+[<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/python.svg" />][python]
+[<img align="left" alt="HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/html5.svg" />][html]
+[<img align="left" alt="CSS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/css3.svg" />][css]
+[<img align="left" alt="C" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/c.svg" />][c]
+[<img align="left" alt="C#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/csharp.svg" />][c#]
+[<img align="left" alt="C++" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/cplusplus.svg" />][c++]
 
 ### My Socials:
 
@@ -46,6 +49,9 @@
 [python]: https://en.wikipedia.org/wiki/Python_(programming_language)
 [html]: https://en.wikipedia.org/wiki/HTML
 [css]: https://en.wikipedia.org/wiki/CSS
+[c]: https://en.wikipedia.org/wiki/C_(programming_language)
+[c#]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
+[c++]: https://en.wikipedia.org/wiki/C++
 
 <br />
 
