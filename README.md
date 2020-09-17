@@ -30,6 +30,7 @@
 [<img align="left" alt="C" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/c.svg" />][c]
 [<img align="left" alt="C#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/csharp.svg" />][c#]
 [<img align="left" alt="C++" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/cplusplus.svg" />][c++]
+[<img align="left" alt="PHP" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/php.svg" />][php]
 
 
 
@@ -58,6 +59,7 @@
 [c]: https://en.wikipedia.org/wiki/C_(programming_language)
 [c#]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
 [c++]: https://en.wikipedia.org/wiki/C++
+[php]: https://en.wikipedia.org/wiki/PHP
 
 
 
