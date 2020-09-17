@@ -47,6 +47,11 @@
 [<img align="left" alt="PHP" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/php.svg" />][php]
 
 
+# StackOverflow Activity:
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
+
+
 <br />
 
 [java]: https://en.wikipedia.org/wiki/Java
