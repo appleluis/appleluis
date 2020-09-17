@@ -4,34 +4,20 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/appleluis07?color=00FFFF&label=Follow&logo=Twitter&style=for-the-badge)
 
 
-
 ### I am a Developer, Musician, Designer, Gamer, and Content-Creator. 
 - 💻: I code Java, JavaScript, Python, HMTL, and CSS, and I know most basics of C, C#, and C++!
 - 🖥: I am the Founder of MidnightGames, MidnightCord, MidnightClient, and BotNight!
 - 🌱: I am always looking for new Projects to work on! If you have any Ideas, just DM me on Discord!
-- 👯: I’m looking to collaborate with other content creators and Devs!
+- 👯: I am looking to collaborate with other content creators and Devs!
+- 🎹: I play the Piano, Guitar, and Keyboard!
+- 🎧: I am also a Singer, DJ, and Producer!
+- 🎬: I love to record Videos, and Clips!
 - 🥅: 2020 Goals: Contribute more to Open Source projects!
-
 
 
 ### GitHub Stats:
 
 <img align="left" alt="Appleluis' Github Stats" src="https://github-readme-stats.appleluis.vercel.app/api?username=appleluis&show_icons=true&hide_border=true" />
-
-
-
-### Languages:
-
-[<img align="left" alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/java.svg" />][java]
-[<img align="left" alt="JavaScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/javascript.svg" />][javascript]
-[<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/python.svg" />][python]
-[<img align="left" alt="HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/html5.svg" />][html]
-[<img align="left" alt="CSS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/css3.svg" />][css]
-[<img align="left" alt="C" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/c.svg" />][c]
-[<img align="left" alt="C#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/csharp.svg" />][c#]
-[<img align="left" alt="C++" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/cplusplus.svg" />][c++]
-[<img align="left" alt="PHP" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/php.svg" />][php]
-
 
 
 ### My Socials:
@@ -48,6 +34,18 @@
 [<img align="left" alt="Appleluis | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
 
 
+### Languages:
+
+[<img align="left" alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/java.svg" />][java]
+[<img align="left" alt="JavaScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/javascript.svg" />][javascript]
+[<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/python.svg" />][python]
+[<img align="left" alt="HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/html5.svg" />][html]
+[<img align="left" alt="CSS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/css3.svg" />][css]
+[<img align="left" alt="C" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/c.svg" />][c]
+[<img align="left" alt="C#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/csharp.svg" />][c#]
+[<img align="left" alt="C++" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/cplusplus.svg" />][c++]
+[<img align="left" alt="PHP" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/php.svg" />][php]
+
 
 <br />
 
@@ -60,7 +58,6 @@
 [c#]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
 [c++]: https://en.wikipedia.org/wiki/C++
 [php]: https://en.wikipedia.org/wiki/PHP
-
 
 
 <br />
