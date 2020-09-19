@@ -36,44 +36,44 @@
 
 [<img align="up" alt="Appleluis.crd.co" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-[<img align="right" alt="Appleluis | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Appleluis | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
-[<img align="right" alt="Appleluis | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
+[<img align="left" alt="Appleluis | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 
-[<img align="right" alt="Appleluis | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Appleluis | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[<img align="right" alt="Appleluis | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Appleluis | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-[<img align="right" alt="Appleluis | SnapChat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/snapchat.svg" />][snapchat]
+[<img align="left" alt="Appleluis | SnapChat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/snapchat.svg" />][snapchat]
 
-[<img align="right" alt="Appleluis | TikTok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />][tiktok]
+[<img align="left" alt="Appleluis | TikTok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />][tiktok]
 
-[<img align="right" alt="Appleluis | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
+[<img align="left" alt="Appleluis | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
 
-[<img align="right" alt="Appleluis | Pinterest" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pinterest.svg" />][pinterest]
+[<img align="left" alt="Appleluis | Pinterest" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pinterest.svg" />][pinterest]
 
-[<img align="right" alt="Appleluis | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
+[<img align="left" alt="Appleluis | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
 
 
 ### Languages:
 
 [<img align="up" alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/java.svg" />][java]
 
-[<img align="right" alt="JavaScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/javascript.svg" />][javascript]
+[<img align="left" alt="JavaScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/javascript.svg" />][javascript]
 
-[<img align="right" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/python.svg" />][python]
+[<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/python.svg" />][python]
 
-[<img align="right" alt="HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/html5.svg" />][html]
+[<img align="left" alt="HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/html5.svg" />][html]
 
-[<img align="right" alt="CSS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/css3.svg" />][css]
+[<img align="left" alt="CSS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/css3.svg" />][css]
 
-[<img align="right" alt="C" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/c.svg" />][c]
+[<img align="left" alt="C" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/c.svg" />][c]
 
-[<img align="right" alt="C#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/csharp.svg" />][c#]
+[<img align="left" alt="C#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/csharp.svg" />][c#]
 
-[<img align="right" alt="C++" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/cplusplus.svg" />][c++]
+[<img align="left" alt="C++" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/cplusplus.svg" />][c++]
 
-[<img align="right" alt="PHP" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/php.svg" />][php]
+[<img align="left" alt="PHP" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/php.svg" />][php]
 
 
 <br />
