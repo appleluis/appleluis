@@ -20,18 +20,6 @@
 <img align="left" alt="Appleluis' Github Stats" src="https://github-readme-stats.appleluis.vercel.app/api?username=appleluis&show_icons=true&hide_border=true" />
 
 
-### Blogs / Activity:
-
-## StackOverflow Activity:
-<!-- STACKOVERFLOW:START -->
-<!-- STACKOVERFLOW:END -->
-
-
-## Blog Activity:
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
 ### My Socials:
 
 [<img align="left" alt="Appleluis.crd.co" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -76,6 +64,20 @@
 [<img align="left" alt="C++" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/cplusplus.svg" />][c++]
 
 [<img align="left" alt="PHP" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/php.svg" />][php]
+
+
+<br />
+
+### Blogs / Activity:
+
+# StackOverflow Activity:
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
+
+
+# Blog Activity:
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 <br />
