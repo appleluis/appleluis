@@ -55,6 +55,8 @@
 [<img align="left" alt="Appleluis | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
 
 
+<br />
+
 ### Languages:
 
 [<img align="left" alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/java.svg" />][java]
