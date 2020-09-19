@@ -22,12 +22,12 @@
 
 ### Blogs / Activity:
 
-# StackOverflow Activity:
+## StackOverflow Activity:
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
 
 
-# Blog Activity:
+## Blog Activity:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
