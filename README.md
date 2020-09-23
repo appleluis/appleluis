@@ -20,7 +20,7 @@
 <img align="left" alt="Appleluis' Github Stats" src="https://github-readme-stats.appleluis.vercel.app/api?username=appleluis&show_icons=true&hide_border=true" />
 
 
-### My Socials:
+### Social Media:
 
 [<img align="left" alt="Appleluis.crd.co" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
