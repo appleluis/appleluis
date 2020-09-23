@@ -9,7 +9,7 @@
 * 🖥: I am the Founder of MidnightGames, MidnightCord, MidnightClient, and BotNight!
 * 🌱: I am always looking for new Projects to work on! If you have any Ideas, just DM me on Discord!
 * 👯: I am looking to collaborate with other content creators and Devs!
-* 🎹: I play the Piano, Guitar, and Keyboard!
+* 🎹: I play the Piano, Guitar, and Drums!
 * 🎧: I am also a Singer, DJ, and Producer!
 * 🎬: I love to record Videos, and Clips!
 * 🥅: 2020 Goals: Contribute more to Open Source projects!
