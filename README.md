@@ -69,7 +69,11 @@
 <br />
 <br />
 
-### Blogs / Activity:
+### Activity / Blogs:
+
+# YouTube Activity:
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 # StackOverflow Activity:
 <!-- STACKOVERFLOW:START -->
