@@ -1,4 +1,4 @@
-### Hello there, im Luis AKA [Appleluis][website]!
+### Hello there 👋, im Luis AKA [Appleluis][website]!
 
 ![Twitch Status](https://img.shields.io/twitch/status/appleluis27?color=55FFFF&logo=Twitch&style=for-the-badge)
 ![Twitter Follow](https://img.shields.io/twitter/follow/appleluis07?color=00FFFF&label=Follow&logo=Twitter&style=for-the-badge)
