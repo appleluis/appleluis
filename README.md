@@ -5,8 +5,8 @@
 
 
 ### I am a Developer, Musician, Designer, Gamer, and Content-Creator. 
-* 💻: I code Java, JavaScript, Python, HMTL, and CSS, and I know most basics of C, C#, and C++!
-* 🖥: I am the Founder of MidnightGames, MidnightCord, MidnightClient, and BotNight!
+* 💻: I code Java, JavaScript, Python, HMTL, and CSS, PHP, and I know most basics of C, C#, and C++!
+* 🖥: I am the Founder of MidnightGames, MidnightCord, MidnightClient, MidnightHosting, and BotMidnight!
 * 🌱: I am always looking for new Projects to work on! If you have any Ideas, just DM me on Discord!
 * 👯: I am looking to collaborate with other content creators and Devs!
 * 🎹: I play the Piano, Guitar, and Drums!
