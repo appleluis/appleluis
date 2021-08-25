@@ -4,15 +4,13 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/appleluis07?color=00FFFF&label=Follow&logo=Twitter&style=for-the-badge)
 
 
-### I am a Developer, Musician, Designer, Gamer, and Content-Creator. 
+### I am a Developer, Designer, Gamer, and Content-Creator. 
 * 💻: I code Java, JavaScript, Python, HMTL, and CSS!
-* 🖥: I am the Founder of MidnightGames Inc.!
-* 🌱: I am always looking for new Projects to work on! If you have any Ideas, just DM me on Discord - </appleluis>#7777!
+* 🖥: I am the CEO of MidnightGames!
+* 🌱: I am always looking for new Projects to work on! If you have any Ideas, just DM me on Discord - appleluis#9999!
 * 👯: I am looking to collaborate with other content creators and Devs!
-* 🎹: I play the Piano, Guitar, and Drums!
-* 🎧: I also like DJing and producin Music!
 * 🎬: I love to record Videos, and Clips!
-* 🥅: 2020 Goals: Contribute more to Open Source projects!
+* 🥅: 2021 Goals: Contribute more to Open Source projects!
 
 
 ### GitHub Stats:
@@ -38,11 +36,6 @@
 
 [<img align="left" alt="Appleluis | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
 
-[<img align="left" alt="Appleluis | Pinterest" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pinterest.svg" />][pinterest]
-
-[<img align="left" alt="Appleluis | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
-
-
 <br />
 
 ### Languages:
@@ -56,12 +49,6 @@
 [<img align="left" alt="HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/html5.svg" />][html]
 
 [<img align="left" alt="CSS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/css3.svg" />][css]
-
-[<img align="left" alt="C" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/c.svg" />][c]
-
-[<img align="left" alt="C#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/csharp.svg" />][c#]
-
-[<img align="left" alt="C++" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/cplusplus.svg" />][c++]
 
 [<img align="left" alt="PHP" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/php.svg" />][php]
 
@@ -92,15 +79,12 @@
 [python]: https://en.wikipedia.org/wiki/Python_(programming_language)
 [html]: https://en.wikipedia.org/wiki/HTML
 [css]: https://en.wikipedia.org/wiki/CSS
-[c]: https://en.wikipedia.org/wiki/C_(programming_language)
-[c#]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
-[c++]: https://en.wikipedia.org/wiki/C++
 [php]: https://en.wikipedia.org/wiki/PHP
 
 
 <br />
 
-[website]: https://appleluis.crd.co/
+[website]: https://appleluis.com/
 [youtube]: https://www.youtube.com/channel/UCOS-lnwFFnpUz-U6JO5ko7g/
 [twitch]: https://twitch.tv/appleluis27/
 [instagram]: https://www.instagram.com/appleluis07/
@@ -108,5 +92,3 @@
 [snapchat]: https://www.snapchat.com/add/appleluis27/
 [tiktok]: https://www.tiktok.com/@appleluis27/
 [reddit]: https://www.reddit.com/user/appleluis
-[pinterest]: https://www.pinterest.de/appleluis27/
-[steam]: https://steamcommunity.com/id/appleluis/
